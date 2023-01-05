@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Vue.js, Angular and Java**
+- 💬 Ask me about ** Angular and Java, Microservice**
 
 - 📫 How to reach me **melkabli05@gmail.com**
 
