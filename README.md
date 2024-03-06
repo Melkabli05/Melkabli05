@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed El-kabli</h1>
 <h3 align="center">A passionate full stack java developer from Morocco</h3>
 
-- 🔭 I’m currently working on **Smart home management app**
-
-- 🌱 I’m currently learning **Microservice**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about ** Angular and Java, Microservice**
